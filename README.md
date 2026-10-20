@@ -77,7 +77,7 @@ In the code, `sol` means left, `sag` means right and `on` means front.
 
 ## Build & flash
 
-Open `GladiatrAZE/GladiatrAZE.ino` in the Arduino IDE, select **Arduino Nano** (ATmega328P), and upload. No external libraries are needed.
+Open `Thunder_sumo/Thunder_sat.ino` in the Arduino IDE, select **Arduino Nano** (ATmega328P), and upload. No external libraries are needed.
 
 ## Code review fixes
 
